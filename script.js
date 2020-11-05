@@ -9,7 +9,7 @@ var data = [
   },
   {
     clue: 'I am one of the primitive data types in JavaScript.',
-    answer: 'numbers',
+    answer: 'number',
     x: 7,
     y: 3,
     orientation: 'across',
